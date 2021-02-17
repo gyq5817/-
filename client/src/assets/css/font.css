@@ -1,0 +1,11 @@
+@font-face{
+    font-family: Barbarahand;
+    src: url(../font/barbarahand-webfont.eot);
+    src: url(../font/barbarahand-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../font/barbarahand-webfont.woff2) format('worf2'),
+    url(../font/barbarahand-webfont.woff) format('woff'),
+    url(../font/barbarahand-webfont.ttf) format('truetype'),
+    url(../font/barbarahand-webfont.svg#Barbarahand) format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
